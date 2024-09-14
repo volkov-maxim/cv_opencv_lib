@@ -1,6 +1,11 @@
 # dirs
-.ipynb_checkpoints/
+Lib
+Scripts
+etc
+share
+.ipynb_checkpoints
 
 
 # files
 .DS_Store
+pyvenv.cfg
